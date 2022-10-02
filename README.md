@@ -6,3 +6,6 @@ i dont know, i just know that it was made using gamemaker studio 2.
 
 #  aoaoaoaoaoaoaoaoaoqasopxsf?
 im not sure
+
+# WARNING
+each Sprite or music are placeholders. 
